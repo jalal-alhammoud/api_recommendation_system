@@ -1,3 +1,6 @@
+--upgrade pip
+--upgrade setuptools 
+--upgrade wheel
 flask
 flask-sqlalchemy
 psycopg2-binary
